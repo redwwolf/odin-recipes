@@ -1,0 +1,28 @@
+.home-page {
+    background-color: rgb(250, 249, 249);
+    background-size: cover;
+
+}
+
+
+
+.lasagna-link, 
+.baked,
+.shrimp
+ {
+    text-align:center;
+    text-indent: -55px;
+}
+
+.heading {
+    text-align: center;
+    
+}
+
+.chef {
+    opacity: .4;
+}
+
+ul,ol {
+    list-style: none;
+}
